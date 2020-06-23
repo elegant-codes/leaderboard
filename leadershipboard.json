@@ -1,0 +1,232 @@
+ [{
+            "name": "Abiola Titus",
+            "username": "Abiola",
+            "point": 5        },
+        {
+            "name": "Adewusi Bob",
+            "username": "Bobaddey",
+            "point": 5        },
+        {
+            "name": "Adim Ekene",
+            "username": "michealadim",
+            "point": 3        },
+        {
+            "name": "Alkasem Abubakar",
+            "username": "Alkasem",
+            "point": 1
+        },
+        {
+            "name": "Apetu Ezekiel",
+            "username": "Ezekiel",
+            "point": 3        },
+        {
+            "name": "Eyawo Titus",
+            "username": "scout",
+            "point": 4        },
+        {
+            "name": "Adesomoju fisayo",
+            "username": "Gentle",
+            "email": "fisayo@gmail.com",
+            "point": 8        },
+        {
+            "name": "Jegede David",
+            "username": "Jegede David",
+            "point": 4        },
+        {
+            "name": "Lawal Lola",
+            "username": "Lola",
+            "email": "Lola@gmail.com",
+            "point": 9        },
+        {
+            "name": "Ajakaye Ayo",
+            "username": "Ayobami",
+            "email": "ajakayo@gmail.com",
+            "point": 7        },
+            
+        {
+            "name": "Miracle Ogundele",
+            "username": "Mimi",
+            "point": 4        },
+        {
+            "name": "Kolade Victor",
+            "username": "Shola",
+            "point": 3        },
+        {
+            "name": "Orji Cicilia",
+            "username": "Vivicis",
+            "point": 4        },
+        {
+            "name": "Thomas Rita",
+            "username": "TR",
+            "point": 3        },
+        {
+            "name": "Razab Enyi",
+            "username": "Razab",
+            "point": 4        },
+        {
+            "name": "Ade Moa",
+            "username": "Moa",
+            "point": 5        },
+        {
+            "name": "Babatunde Taiwo",
+            "username": "Babatunde",
+            "point": 6        },
+        {
+            "name": "Akim Itunu",
+            "username": "Aktim",
+            "point": 3        },
+        {
+            "name": "Awopetu Akin",
+            "username": "Awopetu",
+            "point": 3        },
+        {
+            "name": "Titus Titus",
+            "username": "Boss",
+            "point": 3        },
+        {
+            "name": "Lawal Musa",
+            "username": "Mus",
+            "point": 3        },
+        {
+            "name": "Taiwo Taiwo",
+            "username": "Tai",
+            "point": 4        },
+        {
+            "name": "Adesomoju Seun",
+            "username": "Sinzu",
+            "point": 3        },
+        {
+            "name": "Ayoka Temi",
+            "username": "Temmy",
+            "point": 3        },
+        {
+            "name": "Muzan Micheal",
+            "username": "Muzzy",
+            "point": 1
+        },
+        {
+            "name": "Kalu Uche",
+            "username": "KU",
+            "point": 3        },
+        {
+            "name": "Fransic Sarah",
+            "username": "Fransa",
+            "point": 4        },
+        {
+            "name": "Fagun Folashade",
+            "username": "Shaddy",
+            "point": 3        },
+        {
+            "name": "Adenuga Titus",
+            "username": "Titty",
+            "point": 3        },
+        {
+            "name": "Adesuwa Vivian",
+            "username": "ElVin",
+            "point": 5        },
+        {
+            "name": "Adigun Karrem",
+            "username": "Ekun",
+            "point": 3        },
+        {
+            "name": "Wusu Wusu",
+            "username": "wusu",
+            "point": 5        },
+        {
+            "name": "Asabi Aroke",
+            "username": "Roke",
+            "point": 3        },
+        {
+            "name": "Ajani Olotu",
+            "username": "ootu",
+            "point": 4        },
+        {
+            "name": "Falekulo Ola",
+            "username": "Olami",
+            "point": 4        },
+        {
+            "name": "Muyiwa Iwa",
+            "username": "Iwa",
+            "point": 4        },
+        {
+            "name": "Enitan Ayinla",
+            "username": "Enny",
+            "point": 6        },
+        {
+            "name": "Azeez Azeez",
+            "username": "AZ",
+            "point": 3        },
+        {
+            "name": "Babalola Damilola",
+            "username": "Babz",
+            "point": 4        },
+        {
+            "name": "Kolawole Muza",
+            "username": "Muzzy",
+            "point": 3        },
+        {
+            "name": "Moses Caleb",
+            "username": "mosee",
+            "point": 3        },
+        {
+            "name": "Aston Matin",
+            "username": "AM",
+            "point": 6        },
+        {
+            "name": "Riliwan Shaheed",
+            "username": "Rilly",
+            "point": 3        },
+        {
+            "name": "Ade Wunmi",
+            "username": "Wunmi",
+            "point": 5        },
+        {
+            "name": "Babatunde Babalola",
+            "username": "Babat",
+            "point": 3        },
+        {
+            "name": "Akintunde Shade",
+            "username": "Akintun",
+            "point": 5        },
+        {
+            "name": "Kareem Shola",
+            "username": "ShollyBba",
+            "point": 3        },
+        {
+            "name": "Adegbola Funmi",
+            "username": "Fummzy",
+            "point": 3        },
+        {
+            "name": "Adesomoju Fisayo",
+            "username": "Fisayo",
+            "point": 1
+        },
+        {
+            "name": "Taiwo Kenny",
+            "username": "Kendudu",
+            "point": 3        },
+        {
+            "name": "Adesola Ayobami",
+            "username": "Bamabam",
+            "point": 3        },
+        {
+            "name": "Ayodele Tunde",
+            "username": "Tunapa",
+            "point": 6        },
+        {
+            "name": "Akinyale Asiwaju",
+            "username": "Emiiy",
+            "point": 3        },
+        {
+            "name": "Jeff Uche",
+            "username": "JU",
+            "point": 3        },
+        {
+            "name": "Esther Ngozi",
+            "username": "Ngo",
+            "point": 4        },
+        {
+            "name": "Fasan Famila",
+            "username": "Fallu",
+            "point": 3        }
+    ]
